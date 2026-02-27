@@ -1,0 +1,17 @@
+:root {
+  /* cores principais */
+  --color-box: #8efff5;
+  --color-background: #5a7ed3;
+  --color-button: #5aaed3;
+  --color-text: #000000;
+  --color-text-box: #e0eef4;
+
+  /* configuracoes da fonte */
+  --font-default: "Finlandica", sans-serif;
+  --font-default-weight: 400;
+  --font-deafult-style: normal;
+
+  /* tamanhos das coisas */
+  --container-width: 90%;
+  --max-width: 1200px;
+}
