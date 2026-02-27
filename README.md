@@ -68,7 +68,7 @@ O site está disponível para acesso através do link abaixo:
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **HTML5**
 - **CSS3** (com seletores aninhados, variáveis, animações)
