@@ -2,15 +2,7 @@
   <h1>-phone/+health</h1>
   <p><strong>Menos scroll, mais vida real.</strong></p>
 
-  <p>
-    <a href="#-sobre">Sobre</a> •
-    <a href="#-design-figma">Design</a> •
-    <a href="#-funcionalidades">Funcionalidades</a> •
-    <a href="#-tecnologias">Tecnologias</a> •
-    <a href="#-como-executar">Como Executar</a>
-  </p>
-
-  <!-- badges legais -->
+    <!-- badges legais -->
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-green" alt="Status: Em desenvolvimento">
   <img src="https://img.shields.io/badge/licença-MIT-blue" alt="Licença MIT">
 </div>
@@ -71,7 +63,7 @@ Confira o protótipo navegável do projeto no Figma:
 ## Acesse o projeto online
 
 O site está disponível para acesso através do link abaixo:  
-🔗 [URL do Site](https://seu-site.vercel.app)
+🔗 [URL do Site](https://romanticmuffy.github.io/-phone-health/)
 
 ---
 
