@@ -2,7 +2,6 @@
   <h1>-phone/+health</h1>
   <p><strong>Menos scroll, mais vida real.</strong></p>
 
-    <!-- badges legais -->
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-green" alt="Status: Em desenvolvimento">
   <img src="https://img.shields.io/badge/licença-MIT-blue" alt="Licença MIT">
 </div>
