@@ -35,24 +35,21 @@ Os elementos foram pensados para criar uma experiência fluida e envolvente, com
 
 ### ▶️ Preview do Design
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/76561e05-36e4-4d70-b086-803efcb14ec9"width="500px"/>
 > *Aqui você pode ver a fluidez das interações e a estética brutalista aplicada aos componentes da interface.*
-</div>
 
 <div align="center">
-  <img src="link-para-o-gif-design-aqui" alt="Preview do Design - Navegação e interações" width="80%">
+  <img src="https://github.com/user-attachments/assets/45181fe7-6ee2-4c62-b315-33276e8980f7" alt="Preview do Design - Navegação e interações" width="80%">
   <p><em>Design fluido baseado em neo-brutalism, com foco em conforto visual e microinterações.</em></p>
 </div>
 
-### 📐 Layout no Figma
+### Layout no Figma
 
 Confira o protótipo navegável do projeto no Figma:  
-🔗 [Link para o Figma](https://www.figma.com/SEU-LINK-AQUI)
+🔗 [Link para o Figma](https://www.figma.com/design/W4wmiV2X4z2BMZeGnhURey/06-02-2026?node-id=0-1&t=ZxyoMtsXCBZrXkse-1)
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - **Calculadora de tempo de tela**: o usuário insere idade e horas de uso diário e recebe um diagnóstico (🟢 Uso consciente, 🟡 Uso moderado, 🔴 Uso excessivo).
 - **Modal interativo**: o resultado é exibido em um modal com animações suaves.
@@ -65,13 +62,13 @@ Confira o protótipo navegável do projeto no Figma:
 > *Veja a calculadora em ação: insira os dados e receba o diagnóstico instantaneamente.*
 
 <div align="center">
-  <img src="link-para-o-gif-calculadora-aqui" alt="Demonstração da Calculadora de Tempo de Tela" width="80%">
+  <img src="https://github.com/user-attachments/assets/816f9298-938d-49b1-a25e-2c6d18ff87ad" alt="Demonstração da Calculadora de Tempo de Tela" width="80%">
   <p><em>A calculadora retorna um resultado visual com base nas diretrizes de saúde.</em></p>
 </div>
 
 ---
 
-## 🌐 Acesse o projeto online
+## Acesse o projeto online
 
 O site está disponível para acesso através do link abaixo:  
 🔗 [URL do Site](https://seu-site.vercel.app)
