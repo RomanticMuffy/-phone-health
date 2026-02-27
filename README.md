@@ -85,7 +85,7 @@ O site está disponível para acesso através do link abaixo:
 
 ---
 
-## 🚀 Como executar localmente
+## Executar localmente
 
 1. Clone o repositório:
    ```bash
