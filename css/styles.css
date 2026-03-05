@@ -1,4 +1,4 @@
-/* estilo do corpo da pagina */
+/* estilo do corpo da pagina principal */
 body {
   background-image: url("../assets/images/bkg.gif");
   background-repeat: repeat;
@@ -1281,3 +1281,4 @@ div {
   border: 4px solid black;
   font-weight: bold;
 }
+
