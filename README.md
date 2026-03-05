@@ -1,16 +1,22 @@
-
 <div align="right">
-<img width="50" height="60" alt="star" src="https://github.com/user-attachments/assets/faaa998a-6ee7-48f8-95d1-f8ca3565cd01" />
+  <img width="50" height="60" alt="star" src="https://github.com/user-attachments/assets/faaa998a-6ee7-48f8-95d1-f8ca3565cd01" />
 </div>
 
-
-  <div align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<div align="left">
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    </a>
+  </div>
+  
   <h1>-phone/+health</h1>
   <p><strong>Menos scroll, mais vida real.</strong></p>
-  
 </div>
 
 ---
@@ -47,12 +53,15 @@ Para garantir que a experiência seja consistente em qualquer dispositivo, utili
   <p><em>Exemplo de media query utilizada no projeto para ajustar o layout em telas menores.</em></p>
 </div>
 
+---
+
 ### Layout no Figma
-
 <div align="center">
-  <p>🔗 <a href="https://www.figma.com/design/W4wmiV2X4z2BMZeGnhURey/06-02-2026?node-id=0-1&t=ZxyoMtsXCBZrXkse-1" target="_blank">Confira o protótipo no Figma</a></p>
+  <a href="https://www.figma.com/design/W4wmiV2X4z2BMZeGnhURey/06-02-2026?node-id=0-1&t=ZxyoMtsXCBZrXkse-1" target="_blank">
+    <img src="https://img.shields.io/badge/-Ver_no_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Ver no Figma">
+  </a>
 </div>
-
+ 
 ---
 
 ## Funcionalidades
@@ -74,8 +83,10 @@ Para garantir que a experiência seja consistente em qualquer dispositivo, utili
 
 ## Acesse o projeto online
 
-<div align="center">
-  <p>🔗 <a href="https://romanticmuffy.github.io/-phone-health/" target="_blank">URL do Site</a></p>
+<div align="center" style="margin: 20px 0;">
+  <a href="https://romanticmuffy.github.io/-phone-health/" target="_blank">
+    <img src="https://img.shields.io/badge/-LINK PROJETO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório GitHub">
+  </a>
 </div>
 
 ---
